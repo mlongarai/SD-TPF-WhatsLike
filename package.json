@@ -4,7 +4,9 @@
     "description": "WhatsLike utilizando socket.io API + Redis Cache on Azure",
     "dependencies": {
         "body-parser": "^1.15.2",
+        "eslint": "^4.19.1",
         "express": "^4.10.2",
+        "npm": "^6.0.0",
         "redis": "^2.6.3",
         "socket.io": "^1.7.1"
     },
