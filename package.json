@@ -1,12 +1,11 @@
 {
-    "name": "socket-chat-example",
-    "version": "0.0.1",
+    "name": "socket-chat-whatslike",
+    "version": "1.0.1",
     "description": "WhatsLike utilizando socket.io API + Redis Cache on Azure",
     "dependencies": {
         "body-parser": "^1.15.2",
-        "eslint": "^4.19.1",
         "express": "^4.10.2",
-        "npm": "^6.0.0",
+        "npm": "6.0.0",
         "redis": "^2.6.3",
         "socket.io": "^1.7.1"
     },
@@ -15,6 +14,6 @@
         "start": "node index.js"
     },
     "engines": {
-        "node": "4.1.1"
+        "node": "10.0.0"
     }
 }
